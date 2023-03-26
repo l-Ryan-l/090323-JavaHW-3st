@@ -30,12 +30,6 @@ public class Task3_FillMixedAndDelInts {
 
             }
         }
-
         System.out.println("The final array is: " + mixedList);
-
-
-
-
-
     }
 }
